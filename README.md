@@ -1,2 +1,2 @@
-# ProjectMavenTestPath
-This is ProjectMavenTestPath
+# maven_template
+This is testow2o12345
